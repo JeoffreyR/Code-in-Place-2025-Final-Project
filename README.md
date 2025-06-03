@@ -48,20 +48,21 @@ Investors use the correlation between assets to diversify their portfolios and h
     during that same period.
 
 
-# How to Use This Program. Think of the Main Menu as "Steps"
+# How to Use This Program. 
+Think of the Main Menu as "Steps"
 
-Step 1: Display this help
-    Step 2: Choose Cryptocurrencies
-            Select the cryptocurrencies you want to compare. This step runs automatically the
-            first time you use the program.
-    Step 3: Enter Historical Days (Optional)
-            Input the number of past days to include in your comparison. You can skip this step
-            if you want to use the default setting.
-    Step 4: Retrieve Price Data (Required)
-            Run this step to download the latest price data for your selected cryptocurrencies.
-            This is essential for generating accurate comparisons.
-    Step 5: Plot Chart
-            View a visual chart of the price data for easy comparison and analysis.
+Step 1: Display help<br>
+Step 2: Choose Cryptocurrencies<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select the cryptocurrencies you want to compare. This step runs automatically the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first time you use the program.<br>
+Step 3: Enter Historical Days (Optional)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input the number of past days to include in your comparison. You can skip this step<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if you want to use the default setting.<br>
+Step 4: Retrieve Price Data (Required)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run this step to download the latest price data for your selected cryptocurrencies.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is essential for generating accurate comparisons.<br>
+Step 5: Plot Chart<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View a visual chart of the price data for easy comparison and analysis.<br>
 
 Finally, to compare different cryptocurrencies, repeat steps 2 through 5
 
