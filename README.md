@@ -1,6 +1,8 @@
 # Code-in-Place-2025-Final-Project
 My Code in Place 2025 Final Project - Cryptocurrency Correlation Tool
 
+![Downloads](https://img.shields.io/github/downloads/JeoffreyR/Code-in-Place-2025-Final-Project/v1.0.0/total)
+
 Project Description:
 
 # Cryptocurrency Correlation Tool.
