@@ -18,10 +18,10 @@ Project Description:
     inspiration for others exploring data through code.
 
 ## Additional Python libraries to get this program running.
-    os (lets Python interact with native OS)
-    requests (for http requests to web servers)
-    pandas (library of data structures that analyze and handle data)
-    matplotlib (for plots, graphs, charts)
+    import os         # lets Python interact with native OS
+    import requests   # for http requests to web servers
+    import pandas     # library of data structures that analyze and handle data
+    import matplotlib # for plots, graphs, charts
 
 ## Future Enhancement.
     Some really exciting stuff, like using machine learning models to predict price trends from
