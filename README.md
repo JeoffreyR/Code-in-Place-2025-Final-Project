@@ -3,7 +3,7 @@ My Code in Place 2025 Final Project - Cryptocurrency Correlation Tool
 
 Project Description:
 
-## Cryptocurrency Correlation Tool.
+# Cryptocurrency Correlation Tool.
     This program measures how much two cryptocurrencies move in relation to each other.
     But it is not just for crypto, you can use it with stocks, currencies, or any assets
     you are interested in comparing. Just pick the assets you want to analyze, and the
@@ -17,17 +17,17 @@ Project Description:
     educational exercise. I hope this project serves as a useful starting point or
     inspiration for others exploring data through code.
 
-## Additional Python libraries to get this program running.
+# Additional Python libraries to get this program running.
     import os         # lets Python interact with native OS
     import requests   # for http requests to web servers
     import pandas     # library of data structures that analyze and handle data
     import matplotlib # for plots, graphs, charts
 
-## Future Enhancement.
+# Future Enhancement.
     Some really exciting stuff, like using machine learning models to predict price trends from
     correlated assets.
 
-## Programming Bugs.
+# Programming Bugs.
     I have poured a lot of time and effort into building this program, but I am only human and
     so is my code! Despite my best efforts, there may still be a few bugs lurking around. If you
     run into any issues, please let me know so I can make things better. Thanks for your
@@ -39,7 +39,7 @@ Project Description:
     in a recession. However, something with low or negative correlation might actually gain value
     during that same period.
 
-## How to Use This Program. Think of the Main Menu as "Steps"
+# How to Use This Program. Think of the Main Menu as "Steps"
 
     Step 1: Display this help
     Step 2: Choose Cryptocurrencies
@@ -56,7 +56,7 @@ Project Description:
 
     Finally, to compare different cryptocurrencies, repeat steps 2 through 5
 
-## To Code in Place (2025).
+# To Code in Place (2025).
     I am truly grateful to Code in Place and my section leader Zulfiqar Ali Mir, for creating
     such an engaging and supportive learning experience that made my first encounter with Python
     both enjoyable and inspiring.
